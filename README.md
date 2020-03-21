@@ -18,6 +18,7 @@ You should write the code inside the curly braces, where it says `Your amazing c
 
 ## Examples
 
+```javascript
 getBudgets([
   { name: "John", age: 21, budget: 23000 },
   { name: "Steve",  age: 32, budget: 40000 },
@@ -29,6 +30,7 @@ getBudgets([
   { name: "Steve",  age: 32, budget: 32000 },
   { name: "Martin",  age: 16, budget: 1600 }
 ]) ➞ 62600
+```
 
 ## Local Test
 
